@@ -1,0 +1,6 @@
+@import url(scss/normalize.css);
+.vg { display: inline-block; fill: currentColor; vertical-align: middle; shape-rendering: auto; }
+
+.menu-button { width: 200px; background: red; margin: 30px; }
+
+.vg-menu { fill: #222; }

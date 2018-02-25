@@ -1,2 +1,1 @@
-# veegee
-svg icon pack
+#veegee
